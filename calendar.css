@@ -1,0 +1,58 @@
+.topprio {
+    text-align: center;
+}
+
+#wow1, #wow2 {
+    font-weight: 800;
+}
+
+#last {
+    display: flex;
+    justify-content: center;
+}
+
+#cal {
+    font-size: 80px;
+}
+
+.gimoggi {
+    height: 30px;
+    background-color: rgba(0,0,0,0);
+    border-color: rgba(0,0,0,0);
+    margin-top: 90px;
+    font-weight: 700;
+}
+
+button {
+    background-color: rgba(0,0,0,0);
+    border-color: rgba(0,0,0,0);
+}
+
+#lb {
+    margin-right: 25px;
+}
+
+#rb {
+    margin-left: 25px;
+}
+
+#right {
+    padding-right: 20px;
+}
+
+#left {
+    padding-left: 20px;
+}
+
+table {
+    height: 100px;
+    border-collapse: collapse;
+    margin-top: 45px;
+}
+
+th {
+    font-size: 13px;
+    width: 40px;
+    height: 20px;
+    color: black;
+}
